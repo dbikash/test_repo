@@ -1,2 +1,4 @@
 This is a file added from my local machine.
 Will try to add this to Git and push to GitHub.
+
+Now changing from remote (GitHub). Can you see it locally?
